@@ -6,3 +6,4 @@ test de merge avec le conflit au niveau de master
 test de merge avec conflit au niveau de master
 test de merge avec conflit au niveau de master
 test rebase (au niveau de b)
+commit a partir de vscode
