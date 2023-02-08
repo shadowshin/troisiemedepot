@@ -2,3 +2,4 @@ bonjour
 deuxième ligne
 modification au niveau de la branche
 test de merge sans le fast forward
+test de merge avec le conflit au niveau de master
